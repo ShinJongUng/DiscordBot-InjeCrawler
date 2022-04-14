@@ -3,9 +3,9 @@
 
 <img src = "https://img.shields.io/github/stars/ShinJongUng/DiscordBot-InjeCrawler"><br>
 # STACK
-<img alt="Python" src ="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+<span><img alt="Python" src ="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 <img alt="Discord" src ="https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white"/>
-<img alt="Naver" src ="https://img.shields.io/badge/Naver-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=white"/><br><br><br>
+<img alt="Naver" src ="https://img.shields.io/badge/Naver-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=white"/></span><br><br><br>
 
 ## Command1: /학식
 ### 당일 학식을 Beautifulsoup를 사용하여 가져옵니다
