@@ -1,5 +1,4 @@
-# DiscordBot-InjeCrawler
-## Deprecated
+# DiscordBot-InjeCrawler (Deprecated, 인제 크롤러봇은 discord.js로 이전 되었습니다)
 ### 인제대 디스코드 봇으로 학식 크롤링과 어방동 날씨를 가져오는 봇입니다.
 
 <img src = "https://img.shields.io/github/stars/ShinJongUng/DiscordBot-InjeCrawler"><br>
